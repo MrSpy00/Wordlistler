@@ -1,0 +1,2 @@
+# Wordlistler
+Birkaç tane Wordlist.
